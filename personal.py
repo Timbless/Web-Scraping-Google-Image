@@ -100,15 +100,6 @@ if __name__ == '__main__':
             continue
 
 
-#
-
-
-
-
-
-
-
-
 
 #driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 #driver.get(url)

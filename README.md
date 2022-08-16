@@ -2,7 +2,10 @@
 
 Using Selenium to download original resolution images
 
-functionality:
+### functionality:
+
 *keyword based
+
 *customerize the amount of images download from google image
+
 *written path for storing images

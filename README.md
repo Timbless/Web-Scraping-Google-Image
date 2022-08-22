@@ -1,6 +1,8 @@
 # Web-Scraping-Google-Image
 
-Using Selenium to download original resolution images
+Method 1: Using Selenium to download original resolution images
+
+Method 2: Using Beautifulsoup and Request
 
 ### functionality:
 

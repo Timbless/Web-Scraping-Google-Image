@@ -6,7 +6,7 @@
 import os
 import requests  # pip install requests #to sent GET requests
 from bs4 import BeautifulSoup  # pip install bs4 #to parse html(getting data out from html, xml or other markup languages)
-from proxycrawl.proxycrawl_api import ProxyCrawlAPI
+
 
 # user can input a search keyword and the count of images required
 # download images from google search image
